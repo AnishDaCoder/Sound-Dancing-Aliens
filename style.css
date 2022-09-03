@@ -1,23 +1,26 @@
 body{
-    background-color: salmon;
-    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    background: salmon;
 }
-h2{
-    background-color: grey;
-    width: 50%;
-    text-align: center;
-    margin-left: 230;
+
+.header_div{
+    background: white;
+    color: maroon;
 }
-p{
-    font-size: 17px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+.header_div p{
+    font-family: 'Dosis', sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
 }
-#btn{
-    border-radius: 7px;
-    width: 100px;
-    height: 30px;
-    color: aquamarine;
-    background-color: maroon;
+
+.main_div button{
+    font-family: 'Oswald', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
 }
 
 .copy_right_footer{
